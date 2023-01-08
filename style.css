@@ -111,7 +111,7 @@ hr{
 
 .section2{
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
     background: #F6F5F4;
     padding-left: 150px;
